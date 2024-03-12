@@ -62,12 +62,12 @@
             <div class="project">
                 <h2>project 3</h2>
                 <a href="Week 7 - Letter/index.html">View project</a>
-                <p><a href="https://youtu.be/U9fECiAPWz4">Video link3</a></p> <!-- 添加的链接 -->
+                <p><a href="https://youtu.be/3LPoLrybXHQ">Video link3</a></p> <!-- 添加的链接 -->
             </div>
             <div class="project">
                 <h2>project 4</h2>
                 <a href="Week4-6 Midterm/index.html">View project</a>
-                <p><a href="https://youtu.be/3LPoLrybXHQ">Video link3</a></p> <!-- 添加的链接 -->
+                <p><a href="https://youtu.be/U9fECiAPWz4">Video link3</a></p> <!-- 添加的链接 -->
             </div>
         </div>
     </div>
