@@ -51,23 +51,23 @@
         <div class="projects-grid">
             <div class="project">
                 <h2>project 1</h2>
-                <a href="Week 2 - Snow/index.html">View project</a>
+                <a href="Week 2 - Snow/index.html">Week 2 - Snow</a>
                 <p><a href="https://youtu.be/xajPvXDbI4I">Video link1</a></p> <!-- 添加的链接 -->
             </div>
             <div class="project">
                 <h2>project 2</h2>
-                <a href="Week 3 - Boid/index.html">View project</a>
+                <a href="Week 3 - Boid/index.html">Week 3 - Boid</a>
                 <p><a href="https://youtu.be/VOwqgNgn0js">Video link2</a></p> <!-- 添加的链接 -->
             </div>
             <div class="project">
                 <h2>project 3</h2>
-                <a href="Week 7 - Letter/index.html">View project</a>
+                <a href="Week 7 - Letter/index.html">Week 7 - Letter</a>
                 <p><a href="https://youtu.be/3LPoLrybXHQ">Video link3</a></p> <!-- 添加的链接 -->
             </div>
             <div class="project">
                 <h2>project 4</h2>
-                <a href="Week4-6 Midterm/index.html">View project</a>
-                <p><a href="https://youtu.be/U9fECiAPWz4">Video link3</a></p> <!-- 添加的链接 -->
+                <a href="Week4-6 Midterm/index.html">Week4-6 Midterm</a>
+                <p><a href="https://youtu.be/U9fECiAPWz4">Video link4</a></p> <!-- 添加的链接 -->
             </div>
         </div>
     </div>
